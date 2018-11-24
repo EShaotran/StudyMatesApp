@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 622a18c56e35a4cb6bf1bfe4cce72514
+timeCreated: 1509207241
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenir LT Std
+  fontNames:
+  - Avenir LT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1165d4f47c30f44ddb74ccf262029f61, type: 3}
+  - {fileID: 12800000, guid: 38fdf4665bb224fa1957effd70dfad0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

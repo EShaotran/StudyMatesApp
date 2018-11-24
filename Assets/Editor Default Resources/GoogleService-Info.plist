@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>234319409105-rsrl3u45g16l4830ehuv6tanq4i3jrkd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.234319409105-rsrl3u45g16l4830ehuv6tanq4i3jrkd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsEMlzkmGV5AkQ2noIoCfduPYMIv1azOQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>234319409105</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shaotran.StudyMates</string>
+	<key>PROJECT_ID</key>
+	<string>thetwoethans</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thetwoethans.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:234319409105:ios:fafcffdae81a168f</string>
+	<key>DATABASE_URL</key>
+	<string>https://thetwoethans.firebaseio.com</string>
+</dict>
+</plist>
